@@ -5,7 +5,7 @@
   <a href="mailto:gutierrezarenas28@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/gutierrezarenas28-star">
+  <a href="https://github.com/gutierrezarenas-star">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -60,12 +60,12 @@
 ## 📊 Mis estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gutierrezarenas28-star&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutierrezarenas28-star&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gutierrezarenas-star&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutierrezarenas-star&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gutierrezarenas28-star&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com?user=gutierrezarenas-star&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
 </p>
 
 ---
@@ -74,9 +74,9 @@
 
 | Proyecto | Qué hace | Stack |
 | :--- | :--- | :--- |
-| [**PROYECTO-WEB**](https://github.com/gutierrezarenas28-star/PROYECTO-WEB) | Sistema de inventario con login y CRUD de productos, organizado en capas (modelo, vista, controlador) | `JavaScript` `HTML` `CSS` |
-| [**PROGRMACION-WEB**](https://github.com/gutierrezarenas28-star/PROGRMACION-WEB) | Tienda con frontend en JavaScript y base de datos SQL | `JavaScript` `SQL` |
-| [**Expo-JavaScrip**](https://github.com/gutierrezarenas28-star/Expo-JavaScrip) | Aplicación web con React y TypeScript, desplegada en Vercel → [demo](https://expo-java-scrip.vercel.app) | `TypeScript` `React` `Tailwind` |
+| [**PROYECTO-WEB**](https://github.com/gutierrezarenas-star/PROYECTO-WEB) | Sistema de inventario con login y CRUD de productos, organizado en capas (modelo, vista, controlador) | `JavaScript` `HTML` `CSS` |
+| [**PROGRMACION-WEB**](https://github.com/gutierrezarenas-star/PROGRMACION-WEB) | Tienda con frontend en JavaScript y base de datos SQL | `JavaScript` `SQL` |
+| [**Expo-JavaScrip**](https://github.com/gutierrezarenas-star/Expo-JavaScrip) | Aplicación web con React y TypeScript, desplegada en Vercel → [demo](https://expo-java-scrip.vercel.app) | `TypeScript` `React` `Tailwind` |
 
 **También en mi GitHub:** ejercicios de **estructura de datos en Java** y proyectos en **C# / .NET**.
 
