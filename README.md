@@ -60,12 +60,12 @@
 ## 📊 Mis estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gutierrezarenas-star&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutierrezarenas-star&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gutierrezarenas-star&show_icons=true&theme=synthwave&hide_border=true&locale=es&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutierrezarenas-star&layout=compact&theme=synthwave&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gutierrezarenas-star&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com?user=gutierrezarenas-star&theme=synthwave&hide_border=true&locale=es" alt="Racha de contribuciones" />
 </p>
 
 ---
