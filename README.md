@@ -1,5 +1,6 @@
-<h1 align="center">¡Hola! Soy JJG 👋</h1>
-<h3 align="center">Desarrollador Web · JavaScript · C# / .NET · SQL</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,100:3d1a6b&height=180&section=header&text=JJG&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Web%20%C2%B7%20JavaScript%20%C2%B7%20C%23%20%2F%20.NET%20%C2%B7%20SQL&descAlignY=58&descSize=18" alt="JJG — Desarrollador Web" />
+</p>
 
 <p align="center">
   <a href="mailto:gutierrezarenas28@gmail.com">
@@ -91,3 +92,7 @@
 </p>
 
 <p align="center"><i>"Primero haz que funcione, luego haz que esté bien."</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,100:3d1a6b&height=120&section=footer" alt="" />
+</p>
